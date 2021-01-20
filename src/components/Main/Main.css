@@ -1,0 +1,10 @@
+.main {
+  padding-top: 50px;
+  width: 100%;
+  min-height: calc(100vh - 100px);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 300px);
+  justify-content: center;
+  gap: 12px;
+  background-color: #f0ffcc;
+}
